@@ -121,5 +121,3 @@ Test Reports & API Collection: docs/
 
 Deployment
 Hosted on: AWS
-
-🔗 Live Demo:  http://buvanesh-adya.s3-website.eu-north-1.amazonaws.com/
